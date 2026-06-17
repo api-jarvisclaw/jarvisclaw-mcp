@@ -1,5 +1,5 @@
 {
-  "name": "@jarvisclaw/mcp-server",
+  "name": "jarvisclaw-mcp",
   "version": "1.0.0",
   "mcpName": "io.github.api-jarvisclaw/jarvisclaw",
   "description": "JarvisClaw MCP Server — 80+ AI models (GPT, Claude, Gemini, DeepSeek), smart routing, pay per call via x402 USDC. OpenAI-compatible.",

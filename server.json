@@ -7,7 +7,7 @@
   "packages": [
     {
       "registryType": "npm",
-      "identifier": "@jarvisclaw/mcp-server",
+      "identifier": "jarvisclaw-mcp",
       "version": "1.0.0",
       "transport": {
         "type": "stdio"
