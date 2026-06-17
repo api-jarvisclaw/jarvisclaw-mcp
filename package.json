@@ -1,0 +1,34 @@
+{
+  "name": "@jarvisclaw/mcp-server",
+  "version": "1.0.0",
+  "mcpName": "io.github.api-jarvisclaw/jarvisclaw",
+  "description": "JarvisClaw MCP Server — 80+ AI models (GPT, Claude, Gemini, DeepSeek), smart routing, pay per call via x402 USDC. OpenAI-compatible.",
+  "main": "index.js",
+  "bin": {
+    "jarvisclaw-mcp": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/api-jarvisclaw/jarvisclaw-mcp.git"
+  },
+  "homepage": "https://jarvisclaw.ai",
+  "keywords": [
+    "mcp",
+    "ai",
+    "x402",
+    "llm",
+    "openai",
+    "claude",
+    "gemini",
+    "deepseek",
+    "jarvisclaw",
+    "api-gateway",
+    "usdc",
+    "crypto-payments"
+  ],
+  "author": "JarvisClaw <jtools@jarvisclaw.ai>",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
