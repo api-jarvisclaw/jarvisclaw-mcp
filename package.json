@@ -1,8 +1,8 @@
 {
   "name": "jarvisclaw-mcp",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "mcpName": "io.github.api-jarvisclaw/jarvisclaw",
-  "description": "JarvisClaw MCP Server — 80+ AI models (GPT, Claude, Gemini, DeepSeek), smart routing, pay per call via x402 USDC. OpenAI-compatible.",
+  "description": "JarvisClaw MCP — 320 AI models and 2,720 pay-per-call APIs in one server. 21 AIP intent types route a task to a provider without knowing the URL. Settles in USDC on Base or Solana over x402: no account, no API key.",
   "main": "index.js",
   "bin": {
     "jarvisclaw-mcp": "./index.js"
@@ -23,8 +23,15 @@
     "deepseek",
     "jarvisclaw",
     "api-gateway",
+    "api-marketplace",
+    "aip",
+    "agent-intent-protocol",
     "usdc",
-    "crypto-payments"
+    "crypto-payments",
+    "base",
+    "solana",
+    "pay-per-call",
+    "agent-payments"
   ],
   "author": "JarvisClaw <jtools@jarvisclaw.ai>",
   "license": "MIT",
