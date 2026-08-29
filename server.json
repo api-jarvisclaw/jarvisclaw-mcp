@@ -2,8 +2,8 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.api-jarvisclaw/jarvisclaw",
   "title": "JarvisClaw — AI Gateway & API Marketplace",
-  "description": "320 AI models + 2,720 pay-per-call APIs. x402 USDC on Base or Solana, no API key.",
-  "version": "1.1.0",
+  "description": "283 AI models + 2,720 pay-per-call APIs. Signs x402 USDC payments locally on Base or Solana; your key never leaves your machine.",
+  "version": "2.0.0",
   "websiteUrl": "https://jarvisclaw.ai",
   "repository": {
     "url": "https://github.com/api-jarvisclaw/jarvisclaw-mcp",
@@ -13,7 +13,7 @@
     {
       "registryType": "npm",
       "identifier": "jarvisclaw-mcp",
-      "version": "1.1.0",
+      "version": "2.0.0",
       "transport": {
         "type": "stdio"
       }
